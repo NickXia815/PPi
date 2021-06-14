@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C1 Old Footprint=0603 New Footprint=1608[0603]
+Change Component Footprint: Designator=C2 Old Footprint=0603 New Footprint=1608[0603]
+Change Component Footprint: Designator=CFLTR Old Footprint=0603 New Footprint=1608[0603]
+Change Component Footprint: Designator=CSTOR Old Footprint=0603 New Footprint=1608[0603]
+Added Member To Class: ClassName=Main_circuit Member=Component U1 BQ25504RGTT
+Added Room: Name=Main_circuit
