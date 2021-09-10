@@ -6,7 +6,7 @@ An open-source People-plant Interaction Toolkit.
 The toolkit is used for developing the plant based electronic systems.
 
 ### What does it have?
-It is batter-less, which utlizes the solar power (solar cell) + biological power (soil-based Microbial Fuel Cells) to provide the energy.
+It is battery-less, which utlizes the solar power (solar cell) + biological power (soil-based Microbial Fuel Cells) to provide the energy.
 
 The toolkit contains the wireless module, a low power-consumption untit nRF52832, which allows to communicate the popular smartphone or laptop.
 
