@@ -1,7 +1,7 @@
 # People-plant Interaction (PlanTie)
 
 ### What is it?
-An open-source People-plant Interation Toolkit.
+An open-source People-plant Interaction Toolkit.
 
 The toolkit is used for developing the plant based electronic systems.
 
